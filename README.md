@@ -35,6 +35,12 @@
 
 ---
 
+### QRCode used Page
+
+![QRCode](https://github.com/mnoby98/QRCode/assets/133987293/437e9c09-5484-493a-9621-4d7d06eadfb9)
+
+---
+
 🚀 Project Structure
 
 Inside E-commerce project, you'll see the following folders and files:
